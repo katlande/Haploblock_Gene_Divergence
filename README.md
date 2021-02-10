@@ -14,5 +14,5 @@ Scripts and files produced to analyze SNP divergence between haplotype-specific 
 **Find_Grantham_Distances.py:** For finding the grantham distance between two aligned, no-gap peptide fastas.
 *Find_Grantham_Distances.py requires Grantham_Matrix.txt to run*
 
-
+**dN_dS.py:** Functions used to find dN/dS between haploblocks, using an ancestral lineage as the background. Excludes fixed differences that are common across haplotypes, as these likely occured before lineage divergence. Requires 6 inputs per gene: DNA & peptide FASTAs for ancestor and both haplotypes. Fastas must be aligned and contain no gaps.
 
