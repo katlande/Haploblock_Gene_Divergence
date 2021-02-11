@@ -8,7 +8,9 @@ Scripts and files produced to analyze SNP divergence between haplotype-specific 
 
 **All_Gene_Variants_Grantham_Distances.txt:** Grantham distances between haplotype-specific predicted protein products for all haploblocks, listed with missense and stop codon counts, and TAIR homolog descriptions.
 
-**All_GO_Terms_With_Grantham_Sums.txt:**Grantham distances of individual GO terms for each haploblock.
+**All_GO_Terms_With_Grantham_Sums.txt:** Grantham distances of individual GO terms for each haploblock.
+
+**All_Gene_Variants_MK_Test_Results.txt:** Mcdonald-Kreitman test results for for all hapltype-specific gene variants with at least 4 polymorphic and 4 fixed SNPs.
 
 ### Scripts & Supporting Files
 
