@@ -12,6 +12,9 @@ Scripts and files produced to analyze SNP divergence between haplotype-specific 
 
 **All_Gene_Variants_MK_Test_Results.txt:** Mcdonald-Kreitman test results for for all hapltype-specific gene variants with at least 4 polymorphic and 4 fixed SNPs.
 
+**Grantham_Distance_Ranks_SVs_vs_Genome.txt:** GO terms with the largest grantham distances ranked for both within-haploblock comparisons and the genomic background against perennials.
+
+
 ### Scripts & Supporting Files
 
 **Find_Grantham_Distances.py:** For finding the grantham distance between two aligned, no-gap peptide fastas.
