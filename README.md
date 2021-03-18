@@ -14,6 +14,8 @@ Scripts and files produced to analyze SNP divergence between haplotype-specific 
 
 **Grantham_Distance_Ranks_SVs_vs_Genome.txt:** GO terms with the largest grantham distances ranked for both within-haploblock comparisons and the genomic background against perennials.
 
+**HKA_All_Results_with_Annots:** HKA results from [hkchi](https://github.com/hkchi) with adjusted p-values, TAIR homolog annotations, and direction of selection.
+
 
 ### Scripts & Supporting Files
 
